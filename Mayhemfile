@@ -2,4 +2,4 @@ project: tinyexpr
 target: repl
 
 cmds:
-  - cmd: /repo/repl
+  - cmd: /repl
