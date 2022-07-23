@@ -1,0 +1,5 @@
+project: tinyexpr
+target: repl
+
+cmds:
+  - cmd: /repl
